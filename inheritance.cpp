@@ -15,10 +15,3 @@ Types of Inheritances in c++
 #include<iostream>
 using namespace std;
 class bank{}
-
-
-With over 9 years of experience in software development,
-I have honed my skills in a variety of programming languages,
-including C, C++ and hands on Python. In particular, my expertise in multithreading in C and C++
-I have a deep understanding of parallel computing and synchronization mechanisms
-
